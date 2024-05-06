@@ -1,0 +1,12 @@
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm_ver2_2025.csproj.AssemblyReference.cache
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm_ver2_2025.csproj.GenerateResource.cache
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm_ver2_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm_ver2_2025.csproj.CopyComplete
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\rhkah\Desktop\DBP\ADOForm\ADOForm_ver2\ADOForm\obj\Debug\ADOForm.pdb

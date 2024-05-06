@@ -1,0 +1,186 @@
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\rhkah\Desktop\DBP\ADOForm\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\Users\rhkah\Desktop\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\수영강습관리프로그램_8조\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.MemberForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.MemberForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.StartForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5차 (11.28. 화)\swimflow_1128\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.MemberForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.StartForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\5_2차 (11.30. 목)\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.StartForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.InfoForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.AdminForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.CalendarForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.MDIMain.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.SearchForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.EnrolForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.RegisterForm.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.RegisterForm2.resources
+C:\Users\rhkah\Documents\카카오톡 받은 파일\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\ADOForm.RegisterForm3.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.exe.config
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.exe
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.pdb
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.Properties.Resources.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.exe
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.pdb
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.AdminForm.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.CalendarForm.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.ClassForm.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.EmpForm.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.InfoForm.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.MDIMain.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.registerform.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.StartForm.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.UserclassSearch.resources
+C:\Users\rhkah\Desktop\DBP팀과제\SwimForm_ver3_1130\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.MemberForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.exe.config
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.pdb
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.AdminForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.CalendarForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.ClassForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.EmpForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.MemberForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.InfoForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.MDIMain.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.registerform.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.Properties.Resources.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.StartForm.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.UserclassSearch.resources
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.exe
+C:\Users\syp99\OneDrive\바탕 화면\3-2\06 데베프\팀플\6_3차(12.04.월)\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.pdb
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.exe.config
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.exe
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\SwimFlow.pdb
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.AdminForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.CalendarForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.ClassForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.EmpForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.MemberForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.InfoForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.MDIMain.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.registerform.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.Properties.Resources.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.StartForm.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.UserclassSearch.resources
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.exe
+C:\Users\rhkah\Desktop\수영\SwimForm_ver3_1207\SwimForm_ver3_1205\SwimForm_ver3 (2)\SwimForm_ver3\ADOForm\obj\Debug\SwimFlow.pdb
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\bin\Debug\SwimFlow.exe.config
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\bin\Debug\SwimFlow.exe
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\bin\Debug\SwimFlow.pdb
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.AssemblyReference.cache
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.AdminForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.CalendarForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.ClassForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.EmpForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.MemberForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.InfoForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.MDIMain.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.registerform.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.Properties.Resources.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.StartForm.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.UserclassSearch.resources
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.GenerateResource.cache
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CoreCompileInputs.cache
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimForm_ver3_2025.csproj.CopyComplete
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.exe
+C:\dev\수영강습관리자용\SwimAdmin\ADOForm\obj\Debug\SwimFlow.pdb
